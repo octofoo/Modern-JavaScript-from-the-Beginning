@@ -1,3 +1,3 @@
 # Modern JavaScript from the Beginning
 
-Course by Brad Traversy
+Course by @bradtraversy

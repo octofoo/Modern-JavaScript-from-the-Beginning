@@ -1,4 +1,4 @@
-////// STORAGE CONTROLLER
+////// STORAGE CONTROLLER 
 const storageController = (function () {
     // public methods
     return {
